@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57405" started-at="2019-04-01T07:36:15Z" finished-at="2019-04-01T07:37:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57405" started-at="2019-04-01T07:36:15Z" finished-at="2019-04-01T07:37:12Z">
+      <class name="com.Tests.SampleTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Tests.SampleTest@1e88b3c]" name="setUp" is-config="true" duration-ms="9321" started-at="2019-04-01T07:36:15Z" finished-at="2019-04-01T07:36:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SignInTest()[pri:1, instance:com.Tests.SampleTest@1e88b3c]" name="SignInTest" duration-ms="7135" started-at="2019-04-01T07:36:24Z" finished-at="2019-04-01T07:36:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInTest -->
+        <test-method status="PASS" signature="AddHeadPhone()[pri:2, instance:com.Tests.SampleTest@1e88b3c]" name="AddHeadPhone" duration-ms="15604" started-at="2019-04-01T07:36:31Z" finished-at="2019-04-01T07:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddHeadPhone -->
+        <test-method status="PASS" signature="AddMacbook()[pri:3, instance:com.Tests.SampleTest@1e88b3c]" name="AddMacbook" duration-ms="11933" started-at="2019-04-01T07:36:47Z" finished-at="2019-04-01T07:36:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddMacbook -->
+        <test-method status="PASS" signature="reduceproductQuantity()[pri:4, instance:com.Tests.SampleTest@1e88b3c]" name="reduceproductQuantity" duration-ms="10826" started-at="2019-04-01T07:36:59Z" finished-at="2019-04-01T07:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reduceproductQuantity -->
+        <test-method status="PASS" signature="SignOutTest()[pri:5, instance:com.Tests.SampleTest@1e88b3c]" name="SignOutTest" duration-ms="1830" started-at="2019-04-01T07:37:10Z" finished-at="2019-04-01T07:37:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignOutTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Tests.SampleTest@1e88b3c]" name="teardown" is-config="true" duration-ms="716" started-at="2019-04-01T07:37:12Z" finished-at="2019-04-01T07:37:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Tests.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
